@@ -1,0 +1,15 @@
+/Users/dawsonfilion/bootcamp/catworxs/bin/Debug/net6.0/CatWorx
+/Users/dawsonfilion/bootcamp/catworxs/bin/Debug/net6.0/CatWorx.deps.json
+/Users/dawsonfilion/bootcamp/catworxs/bin/Debug/net6.0/CatWorx.runtimeconfig.json
+/Users/dawsonfilion/bootcamp/catworxs/bin/Debug/net6.0/CatWorx.dll
+/Users/dawsonfilion/bootcamp/catworxs/bin/Debug/net6.0/CatWorx.pdb
+/Users/dawsonfilion/bootcamp/catworxs/obj/Debug/net6.0/CatWorx.csproj.AssemblyReference.cache
+/Users/dawsonfilion/bootcamp/catworxs/obj/Debug/net6.0/CatWorx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dawsonfilion/bootcamp/catworxs/obj/Debug/net6.0/CatWorx.AssemblyInfoInputs.cache
+/Users/dawsonfilion/bootcamp/catworxs/obj/Debug/net6.0/CatWorx.AssemblyInfo.cs
+/Users/dawsonfilion/bootcamp/catworxs/obj/Debug/net6.0/CatWorx.csproj.CoreCompileInputs.cache
+/Users/dawsonfilion/bootcamp/catworxs/obj/Debug/net6.0/CatWorx.dll
+/Users/dawsonfilion/bootcamp/catworxs/obj/Debug/net6.0/refint/CatWorx.dll
+/Users/dawsonfilion/bootcamp/catworxs/obj/Debug/net6.0/CatWorx.pdb
+/Users/dawsonfilion/bootcamp/catworxs/obj/Debug/net6.0/CatWorx.genruntimeconfig.cache
+/Users/dawsonfilion/bootcamp/catworxs/obj/Debug/net6.0/ref/CatWorx.dll
